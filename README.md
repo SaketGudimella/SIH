@@ -19,12 +19,12 @@ Lunar Hazard Mapper, developed as part of the Smart India Hackathon (SIH) 2023, 
 - **Data Handling:** COCO format and custom data handling techniques used for model training and evaluation.
 
 ## Contributors
-Saket Gudimella
-Kishore Ravishankar
-Surya Narayanan
-Tharun Iyer
-Aarick Yadhuvir
-Suchi Arora
+- Saket Gudimella
+- Kishore Ravishankar
+- Surya Narayanan
+- Tharun Iyer
+- Aarick Yadhuvir
+- Suchi Arora
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
