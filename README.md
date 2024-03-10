@@ -2,7 +2,7 @@
 
 ## Overview
 
-Lunar Hazard Mapper, developed as part of the Smart India Hackathon (SIH) 2023, stands as a project that baged 4th place dedicated to ensuring the safety of lunar landers. The core focus lies in generating hazard maps using advanced image analysis techniques and deep learning models. The project aims to identify potential threats on the lunar surface, thereby enhancing safety protocols for lunar missions.
+Lunar Hazard Mapper, developed as part of the Smart India Hackathon (SIH) 2023, stands as a project that  4th place dedicated to ensuring the safety of lunar landers. The core focus lies in generating hazard maps using advanced image analysis techniques and deep learning models. The project aims to identify potential threats on the lunar surface, thereby enhancing safety protocols for lunar missions.
 
 ## Key Features
 
