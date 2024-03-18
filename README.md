@@ -26,6 +26,9 @@ Lunar Hazard Mapper, developed as part of the Smart India Hackathon (SIH) 2023, 
 - Aarick Yadhuvir
 - Suchi Arora
 
+![PHOTO-2024-03-18-10-22-20](https://github.com/SaketGudimella/SIH/assets/106355242/9be4b7fe-8055-4bee-ad62-82bd8b74dd76)
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
