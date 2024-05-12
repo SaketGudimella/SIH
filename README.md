@@ -1,4 +1,4 @@
-# Lunar Hazard Mappe
+# Lunar Hazard Mapper
 
 ## Overview
 
